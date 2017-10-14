@@ -14,3 +14,4 @@ Bioconductor provides training in computational and statistical methods
 http://master.bioconductor.org/help/course-materials/
 
 
+http://www.bio-info-trainee.com/category/omics/chip-seq
